@@ -1,0 +1,8 @@
+name = Views user and role permission
+description = Allows for current user, white-listed users, and certain roles to be applied as the permission to access a view display.
+core = 7.x
+package = Views
+version = 7.x-1.0
+
+dependencies[] = views
+files[] = views_user_and_role_permission_plugin_access_user_and_role.inc
