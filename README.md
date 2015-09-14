@@ -10,3 +10,7 @@ Allows for current user, white-listed users, and certain roles to be applied as 
 ##Installation
 
 * Install as usual, see http://drupal.org/node/70151 for further information.
+
+##Usage
+
+* todo
